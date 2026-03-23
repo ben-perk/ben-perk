@@ -76,7 +76,7 @@ Concentration: Full Stack Web Development</p>
 <h2>Projects</h2>
 
 <h3><a href="https://pageant-calculator.netlify.app">Pageant Calculator</a></h3>
-<p>A PWA scoring tool for competitions supports offline use, outlier removal, and Excel export.</p>
+<p>A scoring tool for pageants, it had features like a winner carousel, judges score breakdown, outlier removal, and Excel export.</p>
 <p><code>JavaScript</code> · <code>PWA</code> · <code>Service Workers</code> · <code>Excel Integration</code></p>
 
 ---
@@ -88,7 +88,7 @@ Concentration: Full Stack Web Development</p>
 ---
 
 <h3><a href="https://company-phonebook.netlify.app">Company Phonebook</a></h3>
-<p>A bilingual employee directory with an admin panel <i>(password- Good99Job!)</i> and Excel import-export</p>
+<p>A bilingual employee directory with an admin panel <i>(password- <b>Good99Job!</b>)</i> and Excel import-export</p>
 <p><code>React</code> · <code>Supabase</code> · <code>Bootstrap</code></p>
 
 <br/>
