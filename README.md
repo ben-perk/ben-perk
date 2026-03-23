@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="stacked-rgb.png" alt="Benjamin Perkton" width="1080" />
+<img src="stacked-rgb.png" alt="Benjamin Perkton" width="400" />
 
 <br/>
 
@@ -22,7 +22,7 @@
 <p><strong>B.S. Graphic Information Technology</strong> Arizona State University <em>(May 2026)</em><br/>
 Concentration: Full Stack Web Development</p>
 
-<p>Hello, my name is Benjamin! I am a Full stack web developer student with a background in IT and mobile device management. I love to create web app that help others be more productive when they are working on other projects.</p>
+<p>Hello, my name is Benjamin! I am a Full stack web developer student at ASU with a background in IT and mobile device management. I love to create web apps that help others be more productive when they are working on other projects.</p>
 
 ---
 
@@ -81,7 +81,7 @@ Concentration: Full Stack Web Development</p>
 
 ---
 
-<h3><a href="https://tipthem.netlify.app">Tip Them! Tip Sheet Generator</a></h3>
+<h3><a href="https://tipthem.netlify.app">Tip Them! The Tip Sheet Generator</a></h3>
 <p>A stateless, serverless tipping sheet generator. All data lives in a shareable URL no server, no login required.</p>
 <p><code>JavaScript</code> · <code>Canvas API</code> · <code>LZString</code> · <code>QR Code Generation</code></p>
 
