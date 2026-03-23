@@ -1,6 +1,6 @@
 <div align="center">
 
-<table><tr><td width="60"></td><td><img src="stacked-rgb.png" alt="Benjamin Perkton" width="600" /></td></tr></table>
+<img src="stacked-rgb.png" alt="Benjamin Perkton" width="1080" />
 
 <br/>
 
