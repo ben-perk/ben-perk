@@ -88,7 +88,7 @@ Concentration: Full Stack Web Development</p>
 ---
 
 <h3><a href="https://company-phonebook.netlify.app">Company Phonebook</a></h3>
-<p>A bilingual employee directory with admin panel, and Excel import-export</p>
+<p>A bilingual employee directory with an admin panel (password- Good99Job!) and Excel import-export</p>
 <p><code>React</code> · <code>Supabase</code> · <code>Bootstrap</code></p>
 
 <br/>
