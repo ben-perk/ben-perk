@@ -48,7 +48,7 @@ Concentration: Full Stack Web Development</p>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=1500FF)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=1500FF)
-<img src="css3-brands-solid.png" height="28" />
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1500FF)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=1500FF)
 
 <p><strong>Frameworks & Libraries</strong></p>
@@ -89,7 +89,7 @@ Concentration: Full Stack Web Development</p>
 
 <h3><a href="https://company-phonebook.netlify.app">Company Phonebook</a></h3>
 <p>A bilingual employee directory with admin panel, and Excel import-export</p>
-<p><code>React</code> · <code>Supabase</code> · <code>MSAL / Azure AD</code> · <code>Bootstrap</code></p>
+<p><code>React</code> · <code>Supabase</code> · <code>Bootstrap</code></p>
 
 <br/>
 
