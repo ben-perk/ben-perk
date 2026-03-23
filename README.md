@@ -17,6 +17,16 @@
 
 ---
 
+
+<h2>About</h2>
+
+<p><strong>B.S. Graphic Information Technology</strong> Arizona State University <em>(May 2026)</em><br/>
+Concentration: Full Stack Web Development</p>
+
+<p> Hello, my name is Benjamin! I am a Full stack web developer student with a background in IT and mobile device management. I love to create web app that help others be more productive when they are working on other projects.</p>
+
+---
+
 <h2>Stats</h2>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ben-perk&theme=dark&hide_border=true&background=000000&ring=1500FF&fire=1500FF&currStreakLabel=1500FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" />
@@ -33,14 +43,6 @@
 
 ---
 
-<h2>About</h2>
-
-<p><strong>B.S. Graphic Information Technology</strong> Arizona State University <em>(May 2026)</em><br/>
-Concentration: Full Stack Web Development</p>
-
-<p> Hello, my name is Benjamin! I am a Full stack web developer student with a background in IT and mobile device management. I love to create web app that help others be more productive when they are working on other projects.</p>
-
----
 
 <h2>Skills</h2>
 
