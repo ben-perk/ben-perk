@@ -11,7 +11,7 @@
 
 [![Portfolio](https://img.shields.io/badge/ben--perk.com-000000?style=for-the-badge&logo=vercel&logoColor=1500FF&labelColor=000000&color=000000)](https://ben-perk.com)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=1500FF&labelColor=000000&color=000000)](mailto:benjamin.perkton@gmail.com)
-<a href="https://www.linkedin.com/in/ben-perk/"><img src="linkedin-brands-solid.png" width="20" /></a>
+<a href="https://www.linkedin.com/in/ben-perk/"><img src="linkedin-brands-solid.png" width="20" /> LinkedIn</a>
 
 <br/>
 
