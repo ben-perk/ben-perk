@@ -11,7 +11,7 @@
 
 [![Portfolio](https://img.shields.io/badge/ben--perk.com-000000?style=for-the-badge&logo=vercel&logoColor=1500FF&labelColor=000000&color=000000)](https://ben-perk.com)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=1500FF&labelColor=000000&color=000000)](mailto:benjamin.perkton@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=1500FF&labelColor=000000&color=000000)](https://linkedin.com/in/benjamin-perkton)
+<a href="https://www.linkedin.com/in/ben-perk/"><img src="linkedin-brands-solid.png" width="20" /></a>
 
 <br/>
 
@@ -48,7 +48,7 @@ Concentration: Full Stack Web Development</p>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=1500FF)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=1500FF)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1500FF)
+<img src="css3-brands-solid.png" height="28" />
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=1500FF)
 
 <p><strong>Frameworks & Libraries</strong></p>
@@ -61,8 +61,8 @@ Concentration: Full Stack Web Development</p>
 <p><strong>Design</strong></p>
 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=1500FF)
+![Adobe Creative Suite](https://img.shields.io/badge/Adobe_Creative_Suite-000000?style=for-the-badge&logo=adobe&logoColor=1500FF)
 ![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=1500FF)
-![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=1500FF)
 
 <p><strong>MDM</strong></p>
 
@@ -101,6 +101,6 @@ Concentration: Full Stack Web Development</p>
 |---|---|
 | Portfolio | [ben-perk.com](https://ben-perk.com) |
 | Email | [benjamin.perkton@gmail.com](mailto:benjamin.perkton@gmail.com) |
-| LinkedIn | [linkedin.com/in/benjamin-perkton](https://linkedin.com/in/benjamin-perkton) |
+| LinkedIn | [linkedin.com/in/ben-perk](https://www.linkedin.com/in/ben-perk/) |
 
 </div>
