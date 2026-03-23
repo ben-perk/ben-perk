@@ -38,7 +38,7 @@
 <p><strong>B.S. Graphic Information Technology</strong> Arizona State University <em>(May 2026)</em><br/>
 Concentration: Full Stack Web Development</p>
 
-<p> Hello! My name is Benjamin! I am a Full stack web developer student with a background in IT and mobile device management. I love to create web app that help others be more productive when they are working on other projects.</p>
+<p> Hello, my name is Benjamin! I am a Full stack web developer student with a background in IT and mobile device management. I love to create web app that help others be more productive when they are working on other projects.</p>
 
 ---
 
