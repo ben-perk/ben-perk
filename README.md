@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="stacked-rgb.png" alt="Benjamin Perkton" width="400" />
+<img src="horizontal-bw-white.png" alt="Benjamin Perkton" width="400" />
 
 <br/>
 
