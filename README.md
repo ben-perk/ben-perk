@@ -32,11 +32,11 @@ Concentration: Full Stack Web Development</p>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ben-perk&show_icons=true&hide_border=true&bg_color=000000&title_color=1500FF&icon_color=1500FF&text_color=ffffff" alt="GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ben-perk&show_icons=true&hide_border=true&bg_color=000000&title_color=1500FF&icon_color=1500FF&text_color=ffffff" alt="GitHub Stats" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-perk&layout=compact&hide_border=true&bg_color=000000&title_color=1500FF&text_color=ffffff" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-perk&layout=compact&hide_border=true&bg_color=000000&title_color=1500FF&text_color=ffffff" alt="Top Languages" /> -->
 
 <br/>
 
